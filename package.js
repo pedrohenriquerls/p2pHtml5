@@ -1,7 +1,7 @@
 Package.describe({
   summary: "Simple p2p for webrtc client",
   version: "0.0.1",
-  git: " \* Fill me in! *\ "
+  git: "git@github.com:notHereBaby/p2pHtml5.git"
 });
 
 Package.onUse(function(api) {
